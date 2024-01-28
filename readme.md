@@ -8,7 +8,7 @@ I believe that the web is not just a set of code, but an art capable of inspirin
 
 _______
 
-## MY STACK 
+## TECH STACK 
 <div>
 <img src="./assets/github.gif" width="60">
 <img src="./assets/html.gif" width="60">
