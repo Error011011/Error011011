@@ -34,8 +34,8 @@ _______
   2. IBM Excel Basics for Data Analysis (October 2025)
   3. Data Visualization and Dashboards with Excel and Cognoss (November 2025)
   4. IBM Python for Data Science, AI & Development (Match 2026)
-  6. IBM Databases and SQL for Data Science with Python (May 2025)
-  7. Data Analysis with Python (June 2025)
+  6. IBM Databases and SQL for Data Science with Python (May 2026)
+  7. Data Analysis with Python (June 2026)
 
 
 _______
