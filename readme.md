@@ -43,7 +43,8 @@ _______
 ## DATA ANALYST TECH STACK 
  - SQL
  - Python (Pandas, Numpy, Matplotlib, Seaborn, Sci-kit learn)
- - Cognos Analytics (base operations)
+ - Cognos Analytics
+ - Tableau
 
 ## FRONTEND TECH STACK 
 <div>
