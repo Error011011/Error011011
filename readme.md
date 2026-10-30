@@ -1,7 +1,7 @@
 # Hi, I am Vlad!
 
 
-Frontend developer working with React and TypeScript. I care about how data moves through an interface — where it's fetched, cached, and what happens when it's missing. I think in systems: I like interfaces where every element has a reason to exist, state has one source of truth, and the codebase is organized so the next change doesn't require guessing. I prefer a minimalist approach to work and projects: fewer moving parts, clear structure, nothing that doesn't earn its place.
+Frontend developer working with React and TypeScript. I think in systems: I like interfaces where every element has a reason to exist, state has one source of truth, and the codebase is organized so the next change doesn't require guessing. I prefer a minimalist approach to work and projects: fewer moving parts, clear structure, nothing that doesn't earn its place.
 
 Proffessional climber & routesetter with 15+ years experience. 
 _______
