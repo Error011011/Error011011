@@ -16,7 +16,7 @@ _______
 
 - React (Vite)
 - Javascript | Typescript
-- CSS | SAAS | Tailwind
+- CSS | SCSS | Tailwind
 - Axios, Tanstack query
 - Zustand
 - Git
