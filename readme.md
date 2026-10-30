@@ -22,8 +22,8 @@ _______
 - Git
 
 ## PET PROJECTS
-- CRPT | Market observer - crypto market dashboard built with React, TypeScript, Vite, and TanStack Query. → `github.com/Error011011/CRPT---Market-Observer`
-- Dummy e-shop - simple e-shop based on Dummmy api. Built on React, Javascript, Vite and Tanstack Query. → `github.com/Error011011/Dummy-shop-React-E-shop`
+- [CRPT | Market observer](https://github.com/Error011011/CRPT---Market-Observer) - crypto market dashboard built with React, TypeScript, Vite, and TanStack Query
+- [Dummy e-shop](https://github.com/Error011011/Dummy-shop-React-E-shop) - simple e-shop based on Dummmy api. Built on React, Javascript, Vite and Tanstack Query
 
 
 _______
@@ -45,8 +45,8 @@ _______
   7. Data Analysis with Python (June 2026)
 
 # PET PROJECTS
-- Nvidia GPU Sales - GPU sales data analysis using Python. With key insights → `https://github.com/Error011011/nvidia-gpu-sales-data-2026`
-- Uber Rides Data - Analysis of Uber Rides Dataset that captures 148770 bookings. Provides a complete view of ride-sharing operations including successful rides, cancellations, customer behaviors, and financial metrics.  → `https://github.com/Error011011/uber-rides-project`
+- [Nvidia GPU Sales](https://github.com/Error011011/nvidia-gpu-sales-data-2026) - GPU sales data analysis using Python. With key insights
+- [Uber Rides Data](https://github.com/Error011011/uber-rides-project) - Analysis of Uber Rides Dataset that captures 148770 bookings. Provides a complete view of ride-sharing operations including successful rides, cancellations, customer behaviors, and financial metrics
    
 
 
