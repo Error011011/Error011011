@@ -1,34 +1,41 @@
-# Hi, I am Vlad! :heartpulse:
-
-<img src="./assets/life_balance.gif" alt="balance" align="right" width="200" height="auto">
-
-I am trying to become a qualified specialist in data analysis. This field is really inspires because we live in the world full of data. And our lives depends on how we deal with the data. Now I'm having some courses to improve my skills in data analysis.
-I also have a good background in frontend field which helps me understand key trends and peculiarities of analysis in this field.
-
-Some facts about me:
-- Professional rock-climber(Youth European Champion)
-- Favourite hobby: Traveling
-- Try to improve myself every day
+# Hi, I am Vlad!
 
 
+Frontend developer working with React and TypeScript. I care about how data moves through an interface — where it's fetched, cached, and what happens when it's missing. I think in systems: I like interfaces where every element has a reason to exist, state has one source of truth, and the codebase is organized so the next change doesn't require guessing. I prefer a minimalist approach to work and projects: fewer moving parts, clear structure, nothing that doesn't earn its place.
 
+Proffessional climber & routesetter with 15+ years experience. 
+_______
 
-My qualities: 
-- systems and rational thinking
-- adaptability in learning
-- good ad math
-- deep focus on really important stuff
+## FRONTEND TECH STACK 
+<div>
+<img src="./assets/github.gif" width="60">
+<img src="./assets/html.gif" width="60">
+<img src="./assets/js.gif" width="60">
+<img src="./assets/react.gif" width="60">
+</div>
+
+- React (Vite)
+- Javascript | Typescript
+- CSS | SAAS | Tailwind
+- Axios, Tanstack query
+- Zustand
+- Git
+
+## PET PROJECTS
+- CRPT | Market observer - crypto market dashboard built with React, TypeScript, Vite, and TanStack Query. → `github.com/Error011011/CRPT---Market-Observer`
+- Dummy e-shop - simple e-shop based on Dummmy api. Built on React, Javascript, Vite and Tanstack Query. → `github.com/Error011011/Dummy-shop-React-E-shop`
 
 
 _______
 
-# Degree
 
-Saint Marine Techinal University (Saint-Petersburg, Russia), Economics, 3rd course
+## DATA ANALYTICS TECH STACK 
+ - SQL
+ - Python (Pandas, Numpy, Matplotlib, Seaborn, Sci-kit learn)
+ - Cognos Analytics
+ - Tableau
 
-_______
-
-# Certificates
+# DATA ANALYTICS TECH STACK 
 
   1. IBM Introduction to Data Analytics (September 2025)
   2. IBM Excel Basics for Data Analysis (October 2025)
@@ -37,23 +44,10 @@ _______
   6. IBM Databases and SQL for Data Science with Python (May 2026)
   7. Data Analysis with Python (June 2026)
 
-
-_______
-
-## DATA ANALYST TECH STACK 
- - SQL
- - Python (Pandas, Numpy, Matplotlib, Seaborn, Sci-kit learn)
- - Cognos Analytics
- - Tableau
-
-## FRONTEND TECH STACK 
-<div>
-<img src="./assets/github.gif" width="60">
-<img src="./assets/html.gif" width="60">
-<img src="./assets/sass.png" width="60">
-<img src="./assets/js.gif" width="60">
-<img src="./assets/react.gif" width="60">
-</div>
+# PET PROJECTS
+- Nvidia GPU Sales - GPU sales data analysis using Python. With key insights → `https://github.com/Error011011/nvidia-gpu-sales-data-2026`
+- Uber Rides Data - Analysis of Uber Rides Dataset that captures 148770 bookings. Provides a complete view of ride-sharing operations including successful rides, cancellations, customer behaviors, and financial metrics.  → `https://github.com/Error011011/uber-rides-project`
+   
 
 
 
