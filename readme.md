@@ -15,7 +15,7 @@ _______
 </div>
 
 - React (Vite)
-- Javascript | Typescript
+- JavaScript | TypeScript
 - CSS | SCSS | Tailwind
 - Axios, Tanstack query
 - Zustand
@@ -23,7 +23,7 @@ _______
 
 ## PROJECTS
 - [CRPT | Market observer](https://github.com/Error011011/CRPT---Market-Observer) - crypto market dashboard built with React, TypeScript, Vite, and TanStack Query
-- [Dummy e-shop](https://github.com/Error011011/Dummy-shop-React-E-shop) - simple e-shop based on Dummmy api. Built on React, Javascript, Vite and Tanstack Query
+- [Dummy e-shop](https://github.com/Error011011/Dummy-shop-React-E-shop) - simple e-shop based on Dummy api. Built on React, Javascript, Vite and Tanstack Query
 
 
 _______
